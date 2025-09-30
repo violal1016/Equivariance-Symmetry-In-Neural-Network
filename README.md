@@ -1,4 +1,4 @@
-# Equivariance-In-Neural-Network-And-Its-Optimization
+# Equivariance_In_Neural_Network_And_Optimization_Landscape
 This repository is a collection of papers on symmetry and equivariance in Neural Networks. It's still in progress, so feel free to suggest any related work.
 
 ## Equivariance in Optimization 
